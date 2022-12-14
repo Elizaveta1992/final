@@ -1,0 +1,100 @@
+@media screen and (max-width:991px){
+    
+    body{
+        max-width: 730px;
+    }
+
+    .container2{
+        margin-top: 67px;
+    }
+    .title{
+        font-size: 25px;
+        line-height: 37px;
+    }
+
+    .img{
+        width: 221px;
+        height: 233px;
+    }
+    .img1{
+        width: 221px;
+        height: 233px;
+    }
+
+    .first{
+        font-size: 20px;
+    }
+
+    .foto{
+        width: 221px;
+        height: 276px;
+    }
+
+    .maintext{
+        font-size: 12px;
+        line-height: 15px;
+        margin-left: 18px;
+    }
+
+    .listmain{
+        font-size: 12px;
+        line-height: 15px;
+        line-height: 20px;
+        margin: 0;
+    }
+
+    .new{
+    font-size: 10px;
+    line-height: 12px;
+    }
+
+    .newimg{
+        width: 219px;
+        height: 196px;
+    }
+
+    .newinput{
+        padding: 7px 26px;
+    }
+    .newdata{
+        margin: 9px 0 11px 169px;
+    }
+    .newdata2{
+        margin: 9px 0 11px 62px;
+    }
+
+    .container5{
+    font-size: 10px;
+    line-height: 12px;
+    }
+
+    .end{
+        font-weight: 700;
+        font-size: 25px;
+    }
+
+    .right{
+        font-size: 10px;
+    line-height: 12px;
+    }
+    .subscription-text{
+        font-size: 10px;
+    line-height: 12px;
+    }
+
+    .field{
+        width: 219px;
+height: 48px;
+    }
+
+    .button{
+        width: 219px;
+height: 48px;
+    }
+}
+
+@media screen and (max-width:575px){
+    .about{
+        width: 100%;
+    }
+}
